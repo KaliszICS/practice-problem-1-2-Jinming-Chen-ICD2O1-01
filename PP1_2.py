@@ -8,7 +8,7 @@
 def q1():
 
 name = "Alex"
-print()
+print("name")
 
 def q2():
 
@@ -17,7 +17,7 @@ b = 5
 c = 2
 
 num= a + b + c
-print(num)
+print("num")
 
 def q3():
 
@@ -25,19 +25,19 @@ a = 21
 b = 4
 
 num = a // b
-print(num)
+print("num")
 
 def q4():
 
 a = 6.3
 b = 3.0
 num = a / b
-print(num)
+print("num")
 
 def q5():
 
 word = "Hello World"
-print(word)
+print("word")
 
 word = "Goodbye World"
 print(word)
@@ -45,11 +45,11 @@ print(word)
 def q6():
 
 word = True
-print(word)
+print("word")
 
 def q7():
 
 a = 7
 b = 2
 num = a % b
-print(num)
+print("num")
